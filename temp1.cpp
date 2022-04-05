@@ -22,9 +22,9 @@ class vector{
 };
 int main(){
     vector v1(3);
-    v1.arr[0]=9;
-    v1.arr[1]=0;
-    v1.arr[2]=6;
+    v1.arr[1]=4;
+    v1.arr[2]=0;
+    v1.arr[3]=1;
 
 
     vector v2(3);
@@ -34,6 +34,7 @@ int main(){
 
     int a=v1.dotProduct(v2);
     cout<<a<<endl;
+  
     return 0;
 
 }
