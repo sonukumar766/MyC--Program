@@ -14,7 +14,7 @@ class Vector{
         }
     T sum(Vector &V){
         T d=0;
-        for(int i =0;i<size;i++){
+        for(int i=0;i<size;i++){
             d+=this->V.arr[i];
         }
         return d;
