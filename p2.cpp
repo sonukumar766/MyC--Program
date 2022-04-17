@@ -3,13 +3,13 @@ using namespace std;
 
 //This code is created by Sonu Kumar
 
+
 /*
-this 
 is the 
 multiple line 
 comments 
-in c++
-*/
+in c++*/
+
 
 int main(){
 
