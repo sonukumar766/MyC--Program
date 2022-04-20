@@ -21,7 +21,7 @@ class Number{
           f=f1;
       }
 
-      T2 getSum(){
+      T2 getSum(){ 
           return a+b+c+d+e+f;
       }
 
