@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-// creating the template with multiple parameters
 template <class T1>
 class Number{
    public:
