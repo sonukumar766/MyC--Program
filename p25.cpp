@@ -3,7 +3,7 @@
 using namespace std;
 int main(){
     float x=345;
-    float & y=x;
+    float & y=x; // here y is refrence variable
     cout<<x<<endl;
     cout<<y<<endl;
     return 0;

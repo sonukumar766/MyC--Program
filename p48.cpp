@@ -7,7 +7,7 @@ int main(){
     int b=78;
     int c=234;
     int d=1234;
-    cout<<"The value of a without setw is "<<a<<endl;
+    cout<<"The value of a without setw is "<<a<<endl;  /* setw is manipulators with argument that set the width of the variable*/
     cout<<"The value of b without setw is "<<b<<endl;
     cout<<"The value of c without setw is "<<c<<endl;
     cout<<"The value of d without setw is "<<d<<endl;
