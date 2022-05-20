@@ -1,4 +1,4 @@
-// reading unknown number in c++
+// reading unknown number of inputs in c++
 #include<iostream>
 using namespace std;
 
