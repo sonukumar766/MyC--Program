@@ -22,10 +22,12 @@ int main()
     after = a;
     printf("before decimal point = %d\n", before);
     printf("After decimal point = %d\n", after);
-    if(after>before){
+    if (after > before)
+    {
         printf("The number after the decimal point is greter.\n");
     }
-    else{
+    else
+    {
         printf("The number before the decimal point is greter.\n");
     }
     return 0;
