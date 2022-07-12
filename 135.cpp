@@ -43,7 +43,7 @@ int main()
     o2.setNumber(34, 56);
     cout << "The second complex number is: ";
     o2.printNumber();
-    cout<<endl;
+    cout << endl;
 
     int res = sumOfReal(o1, o2);
     cout << "Sum of real part is: " << res << endl;
